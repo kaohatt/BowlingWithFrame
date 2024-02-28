@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingTestMSTest\\BowlingTestMSTest.csproj": {}
+    "C:\\Github repo folder\\BowlingWithFrame\\BowlingTestMSTest\\BowlingTestMSTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingTestMSTest\\BowlingTestMSTest.csproj": {
+    "C:\\Github repo folder\\BowlingWithFrame\\BowlingTestMSTest\\BowlingTestMSTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingTestMSTest\\BowlingTestMSTest.csproj",
+        "projectUniqueName": "C:\\Github repo folder\\BowlingWithFrame\\BowlingTestMSTest\\BowlingTestMSTest.csproj",
         "projectName": "BowlingTestMSTest",
-        "projectPath": "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingTestMSTest\\BowlingTestMSTest.csproj",
+        "projectPath": "C:\\Github repo folder\\BowlingWithFrame\\BowlingTestMSTest\\BowlingTestMSTest.csproj",
         "packagesPath": "C:\\Users\\k-hat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingTestMSTest\\obj\\",
+        "outputPath": "C:\\Github repo folder\\BowlingWithFrame\\BowlingTestMSTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k-hat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj": {
-                "projectPath": "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj"
+              "C:\\Github repo folder\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj": {
+                "projectPath": "C:\\Github repo folder\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj": {
+    "C:\\Github repo folder\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj",
+        "projectUniqueName": "C:\\Github repo folder\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj",
         "projectName": "BowlingWithFrame",
-        "projectPath": "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj",
+        "projectPath": "C:\\Github repo folder\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj",
         "packagesPath": "C:\\Users\\k-hat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingWithFrame\\obj\\",
+        "outputPath": "C:\\Github repo folder\\BowlingWithFrame\\BowlingWithFrame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k-hat\\AppData\\Roaming\\NuGet\\NuGet.Config",

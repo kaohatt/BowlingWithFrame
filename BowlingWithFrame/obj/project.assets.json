@@ -387,11 +387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj",
+      "projectUniqueName": "C:\\Github repo folder\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj",
       "projectName": "BowlingWithFrame",
-      "projectPath": "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj",
+      "projectPath": "C:\\Github repo folder\\BowlingWithFrame\\BowlingWithFrame\\BowlingWithFrame.csproj",
       "packagesPath": "C:\\Users\\k-hat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingWithFrame\\obj\\",
+      "outputPath": "C:\\Github repo folder\\BowlingWithFrame\\BowlingWithFrame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k-hat\\AppData\\Roaming\\NuGet\\NuGet.Config",

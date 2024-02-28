@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pW6hxowek5g9FLqI0kCWqgSj8gbJr32tS8cY8tnEcC7ENIrQhxAlpTDEWfpNoNPlGybCBx1SrKW5UZYIqQs/Kw==",
+  "dgSpecHash": "SI+oUBzLPz8iemikosk3zALll3WDWbSYgOj0S1Xxit0eaKaliHdnHyUFPvP97Vi5khCY6GZiRZLasPSI/v0Wfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\k-hat\\source\\repos\\BowlingWithFrame\\BowlingTestMSTest\\BowlingTestMSTest.csproj",
+  "projectFilePath": "C:\\Github repo folder\\BowlingWithFrame\\BowlingTestMSTest\\BowlingTestMSTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\k-hat\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\k-hat\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
